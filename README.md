@@ -1,7 +1,7 @@
 ### HELLOOO 👋 My name is Gustavo and i'm a frontend developer 
 
 - 🌱 I’m currently trying to get my first jr job :shipit:
-- 👻 I'm posting my projects on instagram with a cool background song 😎 so pls take a look there: @gstdev1 :bowtie:
+- 👻 I'm posting my projects on instagram with a cool background song 😎 so pls take a look there: <a href="https://www.instagram.com/gstdev1/">@gstdev1</a> :bowtie:
 
 
 <!--
