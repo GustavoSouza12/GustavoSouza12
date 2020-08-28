@@ -5,7 +5,9 @@
 </div>
 
 - 🌱 I’m currently working as a freelancer :shipit:
--  :running: I’m currently learning everything :trollface: but focusing in React.js and Three.js 
+
+- ⚡ I’m currently learning everything :trollface: but focusing in React.js and Three.js 
+
 - 👻 I'm posting my projects on instagram with a cool background song 😎 so pls take a look there: <a href="https://www.instagram.com/gstdev1/">@gstdev1</a> :bowtie:
 
 ## Language and tools 🔧
