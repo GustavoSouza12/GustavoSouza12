@@ -22,10 +22,11 @@
 
 ## Say hello 👋
 
-<p>
 <a href="https://www.linkedin.com/in/gstdev/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> 
 <a href="https://www.instagram.com/gstdev1/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a>
-<a href="https://www.instagram.com/gstdev1/"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gustavosouzaalves12@gmail.com" height=25></a>
+
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/GustavoSouza12)](https://github.com/GustavoSouza12)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gustavosouzaalves12@gmail.com)](mailto:gustavosouzaalves12@gmail.com)
 
 
 <!--
