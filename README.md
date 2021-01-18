@@ -1,14 +1,10 @@
-<div>
-  <p align="center">
-    <img height="500" src="https://github.com/GustavoSouza12/GustavoSouza12/blob/master/profileGif.gif"/>
-  </p>
-</div>
 
-- 🌱 I’m currently working as a freelancer :shipit:
+## 👨🏻‍💻 A little bit about me
 
-- ⚡ I’m currently learning everything :trollface: but focusing in React.js and Three.js 
+Hi there 👋🏻  
+I'm Gustavo Souza, Software Engineer freelancer in this moment, working over React.Js ecosystem.
 
-- 👻 I'm posting my projects on instagram with a cool background song 😎 so pls take a look there: <a href="https://www.instagram.com/gstdev1/">@gstdev1</a> :bowtie:
+- 👻 I'm posting my projects on instagram with a cool background song 😎 take a look there: <a href="https://www.instagram.com/gstdev1/">@gstdev1</a> :bowtie:
 
 ## Language and tools 🔧
 
