@@ -2,7 +2,7 @@
 ## 👨🏻‍💻 A little bit about me
 
 Hi there 👋🏻  
-I'm Gustavo Souza, Software Engineer freelancer in this moment, working over React.Js ecosystem.
+I'm Gustavo Souza, Software Engineer freelancer at this moment, working over React.Js ecosystem.
 
 - 👻 I'm posting my projects on instagram: <a href="https://www.instagram.com/gstdev1/">@gstdev1</a> 😎
 
